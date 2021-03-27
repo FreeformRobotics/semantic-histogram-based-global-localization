@@ -19,7 +19,7 @@ Results
 # 2. Running #
 Clone the repository and catkin_make:
 ```
-    git clone https://https://github.com/gxytcrc/Semantic-Graph-based--global-Localization.git
+    git clone https://https://github.com/FreeformRobotics/Semantic-Graph-based--global-Localization.git
     mkdir build
     cd build
     cmake ..
